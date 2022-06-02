@@ -1,0 +1,13 @@
+{
+  "name": "clase4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fileManagement.js",
+  "type": "module",
+  "scripts": {
+    "start": "node fileManagement.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
